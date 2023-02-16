@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Mengenal Penjumlahan dengan GCompris
-subtitle: Belajar dengan cara yang asik
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: Mengenal Penjumlahan
+subtitle: Belajar dengan cara yang asik dengan GCompris
+cover-img: /assets/img/gcompris/dasar_penjumlahan.png
+thumbnail-img: /assets/img/gcompris/logo.png
+share-img: /assets/img/gcompris/dasar_penjumlahan.png
 tags: [matematika, penjumlahan]
 ---
 
