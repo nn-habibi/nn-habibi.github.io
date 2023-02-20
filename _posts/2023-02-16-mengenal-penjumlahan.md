@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mengenal Penjumlahan
-subtitle: Belajar dengan cara yang asik dengan GCompris
+title: Sejarah Hari Matematika Internasional
+# subtitle: Belajar dengan cara yang asik dengan GCompris
 # cover-img: /assets/img/gcompris/dasar_penjumlahan.png
 # thumbnail-img: /assets/img/gcompris/logo.png
 # share-img: /assets/img/gcompris/dasar_penjumlahan.png
@@ -33,5 +33,5 @@ Kemudian, menekankan pentingnya ilmu matematika sebagai benih terobosan teknolog
 
 Selain itu, Hari Matematika Internasional juga diharapkan dapat berkontribusi pada pengembangan kapasitas dalam pendidikan matematika dan ilmiah dengan fokus khusus pada anak perempuan dan anak-anak dari negara berkembang, serta mencapai kesetaraan gender dan memberdayakan perempuan dalam matematika.
 
----
+--
 Sumber: [CNN Indonesia](https://www.cnnindonesia.com/gaya-hidup/20220314101406-284-770792/sejarah-hari-matematika-internasional-yang-diperingati-tiap-14-maret#:~:text=Hari%20Matematika%20Internasional%20ditetapkan%20untuk,sudah%20diperingati%20sebagai%20Hari%20Phi.)
