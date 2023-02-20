@@ -5,7 +5,7 @@ subtitle: Belajar dengan cara yang asik dengan GCompris
 # cover-img: /assets/img/gcompris/dasar_penjumlahan.png
 # thumbnail-img: /assets/img/gcompris/logo.png
 # share-img: /assets/img/gcompris/dasar_penjumlahan.png
-tags: [matematika, penjumlahan]
+tags: [sejarah, matematika]
 ---
 
 Ada banyak perayaan hari khusus di seluruh dunia. Tapi, tahukah kamu bahwa ada Hari Matematika Internasional yang diperingati setiap 14 Maret? Berikut sejarahnya.
