@@ -140,8 +140,8 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/vecteezy_kids-holding-math-object-with-math-background_.jpg"
-footer-img: "/assets/img/vecteezy_kids-holding-math-object-with-math-background_.jpg"
+navbar-img: "/assets/img/7458753_3671320.jpg"
+footer-img: "/assets/img/7458753_3671320.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
