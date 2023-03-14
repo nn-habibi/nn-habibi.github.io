@@ -250,7 +250,8 @@ date_format: "%B %-d, %Y"
 timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+# permalink: /:year-:month-:day-:title/
+permalink: /:slug/
 paginate: 5
 
 kramdown:
@@ -286,6 +287,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
