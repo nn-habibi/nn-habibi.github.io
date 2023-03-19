@@ -17,3 +17,6 @@ Dengan kombinasi GNU PSPP dan LibreOffice Writer, akan menjadi alat tempur andal
 Kabar gembiranya, penulis mendapat nilai yang memuaskan pada mata kuliah Statistik Pendidikan di mana aplikasi olah data digunakan. Penulis mengerjakan tugas yang diberikan dengan perangkat lunak bebas, GNU PSPP untuk olah data, LibreOffice Writer untuk olah kata & laporan. Hal itulah yang menghapus keraguan penulis. Bahwa perangkat lunak bebas sangat mampu menjadi solusi permasalahan perkuliahan.
 
 Kamu bisa mendapatkan GNU PSPP di [situs resminya](https://www.gnu.org/software/pspp/) secara gratis. Cobalah unduh dan gunakan GNU PSPP!
+
+-
+Artikel ini telah diterbitkan pada [Blog BlankOn](https://panduan.blankon.id/umum/keraguan-pada-gnu-pspp/)
