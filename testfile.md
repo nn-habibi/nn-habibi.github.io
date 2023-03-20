@@ -1,5 +1,5 @@
 ---
-layout: page
+#layout: page
 title: Jekyll URL Shortener
 permalink: /test/
 redirect_to: https://google.com/
